@@ -1,9 +1,3 @@
-Một file `README.md` trên GitHub chính là "bộ mặt" của bạn trước các nhà tuyển dụng. Với những tính năng đẳng cấp (Adaptive Logging, Offline Caching, SoftAP, RTOS) mà bạn đã xây dựng, chúng ta cần dùng những thuật ngữ chuyên ngành (Keywords) thật đắt giá để làm nổi bật dự án này.
-
-Dưới đây là template `README.md` chuẩn kỹ sư Embedded/IoT chuyên nghiệp. Bạn chỉ cần copy toàn bộ nội dung trong khung đen dưới đây, dán vào file `README.md` trên GitHub của bạn, và thay thế các link ảnh tương ứng là xong!
-
----
-
 # 🏭 Smart Industrial Sensor Node (ESP32 | FreeRTOS)
 
 ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-v5.x-red.svg)
@@ -60,13 +54,13 @@ The firmware is developed using the **Espressif IoT Development Framework (ESP-I
 * A ThingsBoard Cloud account (or local instance).
 
 ### Installation & Flashing
-1. Clone the repository:
-   ```bash
+**1. Clone the repository:**
+```bash
    git clone [https://github.com/your-username/smart_sensor_node.git](https://github.com/your-username/smart_sensor_node.git)
    cd smart_sensor_node
 ```
 
-2. Configure the ThingsBoard Access Token in `components/comms/comms.c`:
+**2. Configure the ThingsBoard Access Token in `components/comms/comms.c`:**
 ```c
 esp_mqtt_client_config_t mqtt_cfg = {
     .broker.address.uri = "mqtt://thingsboard.cloud",
@@ -76,7 +70,7 @@ esp_mqtt_client_config_t mqtt_cfg = {
 ```
 
 
-3. Build, flash, and monitor:
+**3. Build, flash, and monitor:**
 ```bash
 idf.py build flash monitor
 
@@ -136,7 +130,7 @@ This project is open-source and available under the MIT License.
 
 ---
 
-*Architected and developed by [Your Name] as a demonstration of production-ready embedded systems engineering.*
+*Architected and developed by me as a demonstration of production-ready embedded systems engineering.*
 
 ```
 
