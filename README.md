@@ -56,7 +56,7 @@ The firmware is developed using the **Espressif IoT Development Framework (ESP-I
 ### Installation & Flashing
 **1. Clone the repository:**
 ```bash
-   git clone [https://github.com/your-username/smart_sensor_node.git](https://github.com/your-username/smart_sensor_node.git)
+   git clone https://github.com/SweetieCloud/Smart-Industrial-Sensor-Node.git    
    cd smart_sensor_node
 ```
 
