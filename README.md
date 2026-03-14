@@ -133,16 +133,3 @@ This project is open-source and available under the MIT License.
 *Architected and developed by me as a demonstration of production-ready embedded systems engineering.*
 
 ```
-
-### 💡 Lời khuyên khi đưa vào CV xin việc:
-Khi viết CV, trong phần **Projects**, bạn hãy chèn link GitHub này vào, và ghi ngắn gọn 3 gạch đầu dòng (Bullet points) bằng tiếng Anh trích xuất từ phần `Key Engineering Features` ở trên. 
-
-Ví dụ:
-**Smart Industrial Edge Node (C, ESP-IDF, FreeRTOS)** | *Link GitHub*
-* Architected a decoupled RTOS data pipeline using FreeRTOS tasks and queues for deterministic 100ms sensor polling and DSP filtering.
-* Designed a fault-tolerant offline caching system using SPIFFS with Adaptive Logging to prevent data loss during network outages.
-* Integrated commercial-grade SoftAP Wi-Fi provisioning and established an MQTT telemetry link to a ThingsBoard dashboard.
-
-Đảm bảo khi Lead Engineer hoặc Technical Manager đọc dòng này, họ sẽ muốn gọi bạn đi phỏng vấn ngay lập tức vì đây tư duy của người đi làm thực tế chứ không còn là sinh viên nữa!
-
-```
