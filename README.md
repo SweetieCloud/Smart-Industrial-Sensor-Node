@@ -13,6 +13,7 @@ This project emphasizes **System Reliability**, **Real-time processing (RTOS)**,
 ---
 <img src="images/esp.jpg" width="500">
 
+---
 
 ## 🌟 Key Engineering Features (Highlights)
 
