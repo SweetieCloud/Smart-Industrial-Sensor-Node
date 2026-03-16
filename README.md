@@ -10,7 +10,7 @@ An industrial-grade, fault-tolerant edge computing node built on the ESP32 platf
 
 This project emphasizes **System Reliability**, **Real-time processing (RTOS)**, and **Data Resiliency (Offline Caching)**.
 
-![esp](images/esp.png)
+![esp](images/esp.jpg)
 
 ---
 
