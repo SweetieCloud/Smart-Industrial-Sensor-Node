@@ -129,5 +129,4 @@ Data is published to the default ThingsBoard telemetry topic: `v1/devices/me/tel
 This project is open-source and available under the MIT License.
 
 
-*Architected and developed by me as a demonstration of production-ready embedded systems engineering.*
 
