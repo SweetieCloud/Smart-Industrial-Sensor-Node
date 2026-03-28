@@ -106,7 +106,7 @@ Data is published to the default ThingsBoard telemetry topic: `v1/devices/me/tel
 > **Real-time Monitoring Dashboard with Industrial Analog Gauges & Alarms on ThingsBoard:**
 > 
 > 
-> `<img src="images/thingboard.png" width="900">
+> <img src="images/thingboard.png" width="900">
 > 
 > 
 
