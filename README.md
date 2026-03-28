@@ -105,25 +105,12 @@ Data is published to the default ThingsBoard telemetry topic: `v1/devices/me/tel
 
 *(Optional: Add your screenshots here to make the repo visually appealing)*
 
-> **Real-time Monitoring Dashboard:**
+> **Real-time Monitoring Dashboard with Industrial Analog Gauges & Alarms on ThingsBoard:**
 > 
 > 
+> `<img src="images/thingboard.png" width="500">\
 > 
 > 
-> 
-> `<img src="link_anh_dashboard_cua_ban.png" width="800">`
-> 
-> 
-> 
-> 
-> 
-> **Industrial Analog Gauges & Alarms:**
-> 
-> 
-> 
-> 
-> 
-> `<img src="link_anh_dong_ho_cua_ban.png" width="400">`
 
 ---
 
