@@ -19,7 +19,7 @@ This project emphasizes **System Reliability**, **Real-time processing (RTOS)**,
 
 👉 Click the demo here 
 
-[![Watch Demo](<img src="images/esp32.jpg" width="500">)](https://www.youtube.com/watch?v=mm6ACVhdRnk)
+[![Watch Demo](images/esp32.jpg)](https://www.youtube.com/watch?v=mm6ACVhdRnk)
 
 ---
 
