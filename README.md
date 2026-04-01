@@ -15,6 +15,14 @@ This project emphasizes **System Reliability**, **Real-time processing (RTOS)**,
 
 ---
 
+## 🎬 Video Demo
+
+👉 Click the demo here 
+
+[![Watch Demo](https://img.youtube.com/vi/mm6ACVhdRnk/0.jpg)](https://www.youtube.com/watch?v=mm6ACVhdRnk)
+
+---
+
 ## 🌟 Key Engineering Features (Highlights)
 
 - **Fault-Tolerant Offline Caching (SPIFFS):** Implemented a robust local storage mechanism. If Wi-Fi or MQTT disconnects, JSON payloads are safely cached in the ESP32's flash memory. Upon reconnection, a background task sequentially uploads the backlogged data to the Cloud.
